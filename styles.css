@@ -1,0 +1,43 @@
+* {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+    color: #111111;
+}
+
+main p {
+    font-size: 1.1em;
+    line-height: 1.2em;
+}
+
+header p {
+    font-size: 2em;
+}
+
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
+h1 { font-size: 1.6em; }
+h2 { font-size: 1.4em; padding-top: 0.7em; }
+h3 { font-size: 1.2em; padding-top: 0.6em; }
+h4 { font-size: 1.0em; padding-top: 0.5em; }
+h5 { font-size: 0.8em; padding-top: 0.4em; }
+h6 { font-size: 0.6em; padding-top: 0.3em; }
+
+header {
+    border-bottom: 1px solid #111111;
+}
+
+footer {
+    border-top: 1px solid #111111;
+}
+
+footer p {
+    font-size: 0.9em;
+    text-align: right;
+}
+
+body {
+    margin: 0 auto;
+    padding: 3em 4em 5em 4em;
+    max-width: 900px;
+    font-size: 1em;
+    line-height: 1em;
+}
